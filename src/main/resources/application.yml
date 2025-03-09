@@ -1,0 +1,6 @@
+
+spring:
+  application:
+    name: springbootChatApp
+server:
+  port: 5000
